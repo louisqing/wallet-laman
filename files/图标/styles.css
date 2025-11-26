@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u6908_img {
+#u6909_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,43 +24,13 @@
   width:200px;
   height:200px;
 }
-#u6908 {
+#u6909 {
   border-width:0px;
   position:absolute;
   left:115px;
   top:123px;
   width:200px;
   height:200px;
-  display:flex;
-}
-#u6908 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u6908_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u6909_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:64px;
-  height:64px;
-}
-#u6909 {
-  border-width:0px;
-  position:absolute;
-  left:665px;
-  top:227px;
-  width:64px;
-  height:64px;
   display:flex;
 }
 #u6909 .text {
@@ -81,16 +51,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:200px;
-  height:200px;
+  width:64px;
+  height:64px;
 }
 #u6910 {
   border-width:0px;
   position:absolute;
-  left:398px;
-  top:191px;
-  width:200px;
-  height:200px;
+  left:665px;
+  top:227px;
+  width:64px;
+  height:64px;
   display:flex;
 }
 #u6910 .text {
@@ -117,7 +87,7 @@
 #u6911 {
   border-width:0px;
   position:absolute;
-  left:786px;
+  left:398px;
   top:191px;
   width:200px;
   height:200px;
@@ -141,15 +111,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:201px;
+  width:200px;
   height:200px;
 }
 #u6912 {
   border-width:0px;
   position:absolute;
-  left:1063px;
+  left:786px;
   top:191px;
-  width:201px;
+  width:200px;
   height:200px;
   display:flex;
 }
@@ -171,15 +141,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:200px;
+  width:201px;
   height:200px;
 }
 #u6913 {
   border-width:0px;
   position:absolute;
-  left:1350px;
-  top:153px;
-  width:200px;
+  left:1063px;
+  top:191px;
+  width:201px;
   height:200px;
   display:flex;
 }
@@ -207,8 +177,8 @@
 #u6914 {
   border-width:0px;
   position:absolute;
-  left:298px;
-  top:496px;
+  left:1350px;
+  top:153px;
   width:200px;
   height:200px;
   display:flex;
@@ -231,16 +201,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:38px;
-  height:38px;
+  width:200px;
+  height:200px;
 }
 #u6915 {
   border-width:0px;
   position:absolute;
-  left:45px;
-  top:389px;
-  width:38px;
-  height:38px;
+  left:298px;
+  top:496px;
+  width:200px;
+  height:200px;
   display:flex;
 }
 #u6915 .text {
@@ -256,7 +226,37 @@
   text-transform:none;
   visibility:hidden;
 }
-#u6916_div {
+#u6916_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:38px;
+  height:38px;
+}
+#u6916 {
+  border-width:0px;
+  position:absolute;
+  left:45px;
+  top:389px;
+  width:38px;
+  height:38px;
+  display:flex;
+}
+#u6916 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u6916_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u6917_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -275,7 +275,7 @@
   font-style:normal;
   font-size:14px;
 }
-#u6916 {
+#u6917 {
   border-width:0px;
   position:absolute;
   left:90px;
@@ -288,19 +288,19 @@
   font-style:normal;
   font-size:14px;
 }
-#u6916 .text {
+#u6917 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u6916_text {
+#u6917_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u6917_div {
+#u6918_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -320,7 +320,7 @@
   font-size:12px;
   color:#7F7F7F;
 }
-#u6917 {
+#u6918 {
   border-width:0px;
   position:absolute;
   left:93px;
@@ -334,14 +334,14 @@
   font-size:12px;
   color:#7F7F7F;
 }
-#u6917 .text {
+#u6918 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u6917_text {
+#u6918_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
